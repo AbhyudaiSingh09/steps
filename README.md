@@ -1,4 +1,4 @@
-
+The provided README file looks good, but it seems that you want to add the image to the bottom of the README. The image URL you provided is: `https://github.com/Axs7941/steps/raw/master/public/steps.png`. To include the image, you can add the Markdown syntax as follows:
 
 ```markdown
 # React Counter App
@@ -54,9 +54,6 @@ This app serves as a simple demonstration of using state and hooks in React. It 
 - Additional options to change the date format.
 - Styling improvements for better visual appeal.
 
-![Image Description](https://github.com/Axs7941/steps/raw/master/public/steps.png)
-
-
 ## Credits
 
 Created with ❤️ by [Abhyudai Singh]
@@ -64,4 +61,7 @@ Created with ❤️ by [Abhyudai Singh]
 ---
 
 Feel free to modify, enhance, and build upon this app as you continue your journey in React development!
+
+![Steps](https://github.com/Axs7941/steps/raw/master/public/steps.png)
 ```
+
