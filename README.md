@@ -54,6 +54,9 @@ This app serves as a simple demonstration of using state and hooks in React. It 
 - Additional options to change the date format.
 - Styling improvements for better visual appeal.
 
+![Image Description](https://github.com/Axs7941/steps/raw/master/public/steps.png)
+
+
 ## Credits
 
 Created with ❤️ by [Abhyudai Singh]
