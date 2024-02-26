@@ -56,7 +56,7 @@ This app serves as a simple demonstration of using state and hooks in React. It 
 
 ## Credits
 
-Created with ❤️ by [Abhyudai Singh]
+Created with ❤️ by Abhyudai Singh
 
 ---
 
